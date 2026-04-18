@@ -16,6 +16,8 @@ Get your **free API key** at [https://pdfapihub.com](https://pdfapihub.com).
 ```json
 { "plugins": { "entries": { "pdf-to-excel": { "enabled": true, "env": { "PDFAPIHUB_API_KEY": "your-key" } } } } }
 ```
+**Privacy note:** Files you process are uploaded to PDFAPIHub's cloud service. Files are auto-deleted after 30 days.
+
 ## Examples
 - *"Extract tables from this invoice PDF into Excel"*
 - *"Convert this PDF report to CSV"*
